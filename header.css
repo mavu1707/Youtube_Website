@@ -22,6 +22,7 @@
 
 .middle-section{
   background-color: lightpink;
+  display: flex;
   flex: 1;
   margin-left: 70px;
   margin-right: 35px;
